@@ -70,11 +70,16 @@ text-align: center;
 }
 .jeanpictures{
     display: flex;
-  
+    color: #834d0f;
 }
 img{
     width: 300px;
     height: 500px;
     padding: 20px;
     margin: 10px;
+    font-weight: bold;
+}
+footer{
+    background-color: #834d0f;
+    font-weight: bold;
 }
